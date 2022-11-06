@@ -1,3 +1,3 @@
-# Basic Frontend: lab2
+# WEB: lab2
 ### Мова гіпертекстової розмітки сайту HTML-5. Таблиці. Каскадна таблиця стилів CSS-3
 ### Посилання: https://ootro.github.io/WEB/lab2/
